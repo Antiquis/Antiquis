@@ -3,8 +3,8 @@ I'm Josh - a musician and system administrator based in the UK! I am hugely comm
 
 I'm currently working on:
 - An open source Ensemble Manager for orchestras;
-- A bot for Server.pro's Discord server;
 - A collection of useful scripts for musicians;
+- Lots of cool stuff, including a Discord bot, for Server.pro.
 
 #### Get in touch!
-If you want to get in touch with me, please [send me an email](mailto:me@joshuaquinlan.co.uk)!
+If you want to get in touch with me, please [send me an email](mailto:me@mrantiquis.com)!
